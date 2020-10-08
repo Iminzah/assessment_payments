@@ -1,6 +1,6 @@
 # assessment_payments
 Setting up the project which includes creating a virtual environment
-Activate the virtual environment using source env5/bin/activate on linux
+Activate the virtual environment using source env5/bin/activate on linux.
 Created a payment and callback page .
 Made a transaction model in the payments app
 Added paytm settings which includes the merchant id.
